@@ -2,4 +2,4 @@ ports:
 - port: 3000
 tasks:
 - init: npm i
-- command: npm run start:linux
+- command: npm run start
